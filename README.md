@@ -1,4 +1,2 @@
 # semantic-http-spec
-Specification of a semantic resource protocol building on HTTP. Specifies additional headers and content on HTTP requests and responses to support rich discovery of schema and semantic web data for resources made available via HTTP.
-
-https://openteamsinc.github.io/semantic-http-spec/
+Project moved to `Gitlab <https://gitlab.com/openteams/semantic-http-spec>`_
